@@ -2,7 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR YOUR +SUPPORT-DONT; FORGET+SATAR+FORK+MYREPO;CREATED+BY+MR YOUSAF BALOCH;RELEASED+13-03-2025" alt="Typing SVG" /></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   </div>
-<a><img src='https://i.ibb.co/twWsPTM9/shaban-md.jpg'/></a>
+<a><img src='https://i.ibb.co/fYBGcb4C/shaban-md.jpg'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   </div>
   <p align="center">
@@ -70,7 +70,7 @@ href="https://github.com/YosafN/YOUSAF-BALOCH-MD/graphs/commit-activity"><img he
   </div>
 
 
-<h1> 𝙊͢𝙉͢𝙀͢ 𝘿͢𝘼͢𝙔͢ 𝙔͢𝙊͢𝙐͢ 𝙒͢𝙄͢𝙇͢𝙇͢ 𝙈͢𝙄͢𝙎͢𝙎͢ 𝙈͢𝙀͢🥺 𝙄͢𝙉͢𝙎͢𝙃͢𝘼͢𝙇͢𝙇͢𝘼͢𝙃͢ 😔 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="45"> </h1>
+<h1> 𝐎𝐍𝐄 𝐃𝐀𝐘 𝐘𝐎𝐔 𝐖𝐈𝐋𝐋 𝐌𝐈𝐒𝐒 𝐌𝐄 🥺 𝐈𝐍𝐒𝐇𝐀𝐋𝐋𝐀𝐇😔 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="45"> </h1>
 
 
 <h6>Authors</h6>
