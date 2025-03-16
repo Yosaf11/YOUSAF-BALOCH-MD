@@ -16,7 +16,8 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "YOUSAF-BALOCH-MD"
+      "value": "YOUSAF-BALOCH-MD 
+      Apne Number Pr WhatsApp Bot lagwane Kylie Contact Me"
     }, 
       
     "PREFIX": {
@@ -79,7 +80,10 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*SEEN YOUR STATUS*"
+      "value": "*✦•┄┅┅❂❀﷽❀❂┅┅┄•✦*  
+*Kia Apne today Darood Shareef Pradha Ha?*
+*Ager Para Ha To Allahamdullah💯*
+*Ager Nai Para To Parlo😊*"
    
      }, 
     
@@ -99,7 +103,7 @@
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "YOUSAF-BALOCH-MD-MD"
+      "value": "YOUSAF-BALOCH-MD"
 
       }, 
 
