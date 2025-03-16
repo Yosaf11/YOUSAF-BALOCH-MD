@@ -63,7 +63,7 @@ href="https://github.com/YosafN/YOUSAF-BALOCH-MD/graphs/commit-activity"><img he
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   </div>
  
-[![Follow My WhatsApp Channel](https://img.shields.io/static/v1?label=Follow%20My%20WhatsApp%20Channel&message=follow&color=25D366&style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VazjYjoDDmFZTZ9Ech3O) 
+[![Follow My WhatsApp Channel](https://img.shields.io/static/v1?label=Follow%20My%20WhatsApp%20Channel&message=follow&color=25D366&style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029Vb3Uzps6buMH2RvGef0j) 
 [![Follow My GitHub](https://img.shields.io/static/v1?label=Follow%20My%20GitHub&message=GitHub&color=008080&style=for-the-badge&logo=github&logoColor=white)](https://github.com/YosafN)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
